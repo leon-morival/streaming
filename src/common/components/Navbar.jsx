@@ -28,7 +28,7 @@ const Navbar = () => {
           to="/"
           className="text-white font-bold text-xl hover:text-gray-200"
         >
-          Accueil
+          momostreaming
         </Link>
         <div className="flex">
           <form onSubmit={handleNameSearch} className="flex mr-4">

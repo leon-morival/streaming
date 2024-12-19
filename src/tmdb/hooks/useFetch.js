@@ -26,7 +26,7 @@ const useFetchMovies = () => {
 
     fetchMovies();
   }, []);
-
+  // console.log(JSON.stringify(data, null, 2));
   return { data, loading, error };
 };
 
