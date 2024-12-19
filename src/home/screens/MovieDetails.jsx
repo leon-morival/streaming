@@ -106,7 +106,7 @@ const MovieDetails = () => {
               </div>
             ) : (
               <div className="text-center text-gray-500 mt-8">
-                Aucune vidéo disponible pour ce film.
+                Aucune bande annonce disponible pour ce film.
               </div>
             )}
           </div>
